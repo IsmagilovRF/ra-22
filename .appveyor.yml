@@ -19,6 +19,3 @@ build_script:
 test_script:
   - npm run test  # скрипт тестирования
 
-deploy_script:
-  - npm run deploy
-  
